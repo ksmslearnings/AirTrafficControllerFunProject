@@ -1,5 +1,10 @@
 # Sample demonstration of an Air Traffic Control
 
+![image](https://user-images.githubusercontent.com/66550230/118014948-61e4e800-b371-11eb-98bd-6b5754cc02d3.png)
+
+![image](https://user-images.githubusercontent.com/66550230/118015018-71643100-b371-11eb-8fb0-31a44f4c94a6.png)
+
+
 This project is purely implemented using HTML5, Javascript and static JSON data holding a list flight schedules. Project uses
 
 HTML5 audio
